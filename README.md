@@ -1,2 +1,2 @@
-# templatewebsite
-A simple template website for a workshop that introduces GitHub Pages
+# Erin's template
+My template website for the first workshop
