@@ -1,0 +1,20 @@
+.square, .circle {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+.circle {
+    border-radius: 50%;
+}
+#blockRed {
+    background-color: red;
+    position: relative;
+}
+#blockYellow {
+    background-color: yellow;
+    position: relative;
+}
+#container {
+    background-color: blue; margin: 0 auto;
+    width: 400px;
+}
